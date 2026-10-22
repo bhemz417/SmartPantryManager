@@ -1,0 +1,7 @@
+#Thu Oct 22 10:50:52 SAST 2026
+base.0=C\:\\Users\\Mohammed Bhemat\\Desktop\\MAD_Assignment\\SmartPantryManager_Java_Android_Assignment\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\Mohammed Bhemat\\Desktop\\MAD_Assignment\\SmartPantryManager_Java_Android_Assignment\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+path.0=0/classes.dex
+path.1=14/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

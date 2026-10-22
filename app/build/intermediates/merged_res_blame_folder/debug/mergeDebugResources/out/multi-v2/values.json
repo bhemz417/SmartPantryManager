@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "za.ac.richfield.smartpantry.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mohammed Bhemat\\Desktop\\MAD_Assignment\\SmartPantryManager_Java_Android_Assignment\\SmartPantryManager\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1,15,19,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "16,769,919,567",
+                        "endLines": "9,18,24,14",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "562,914,1190,764"
+                    },
+                    "to": {
+                        "startLines": "21,30,34,40",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "708,1259,1409,1685",
+                        "endLines": "29,33,39,44",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1254,1404,1680,1882"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mohammed Bhemat\\Desktop\\MAD_Assignment\\SmartPantryManager_Java_Android_Assignment\\SmartPantryManager\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,7,5,6,4,1,2,9,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,263,185,223,146,16,58,345,305",
+                        "endColumns": "40,41,37,39,38,41,46,41,39",
+                        "endOffsets": "141,300,218,258,180,53,100,382,340"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "279,320,362,400,440,479,521,568,610",
+                        "endColumns": "40,41,37,39,38,41,46,41,39",
+                        "endOffsets": "315,357,395,435,474,516,563,605,645"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mohammed Bhemat\\Desktop\\MAD_Assignment\\SmartPantryManager_Java_Android_Assignment\\SmartPantryManager\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "74,16",
+                        "endLines": "10,1",
+                        "endColumns": "19,57",
+                        "endOffsets": "293,69"
+                    },
+                    "to": {
+                        "startLines": "2,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,650",
+                        "endLines": "10,20",
+                        "endColumns": "19,57",
+                        "endOffsets": "274,703"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:3:5-18:19
+INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:3:5-18:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml
+	android:supportsRtl
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:5:9-45
+	android:allowBackup
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:4:9-35
+	android:theme
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:6:9-40
+activity#za.ac.richfield.smartpantry.SettingsActivity
+ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:8:9-79
+	android:exported
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:8:52-76
+	android:name
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:8:19-51
+activity#za.ac.richfield.smartpantry.RecipeDetailActivity
+ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:9:9-83
+	android:exported
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:9:56-80
+	android:name
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:9:19-55
+activity#za.ac.richfield.smartpantry.SuggestedRecipesActivity
+ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:10:9-87
+	android:exported
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:10:60-84
+	android:name
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:10:19-59
+activity#za.ac.richfield.smartpantry.AddEditIngredientActivity
+ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:11:9-88
+	android:exported
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:11:61-85
+	android:name
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:11:19-60
+activity#za.ac.richfield.smartpantry.PantryListActivity
+ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:exported
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:12:54-77
+	android:name
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:12:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Pantry Manager</string>
+    <string-array name="units">
+        <item>piece</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>ml</item>
+        <item>l</item>
+        <item>tsp</item>
+        <item>tbsp</item>
+    </string-array>
+</resources>

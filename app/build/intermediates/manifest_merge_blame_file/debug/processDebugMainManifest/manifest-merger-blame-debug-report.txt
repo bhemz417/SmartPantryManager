@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="za.ac.richfield.smartpantry"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="34" />
+10
+11    <application
+11-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:3:5-18:19
+12        android:allowBackup="true"
+12-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:4:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="Smart Pantry Manager"
+15-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:5:9-45
+16        android:supportsRtl="true"
+16-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:7:9-35
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:6:9-40
+19        <activity
+19-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:8:9-79
+20            android:name="za.ac.richfield.smartpantry.SettingsActivity"
+20-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:8:19-51
+21            android:exported="false" />
+21-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:8:52-76
+22        <activity
+22-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:9:9-83
+23            android:name="za.ac.richfield.smartpantry.RecipeDetailActivity"
+23-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:9:19-55
+24            android:exported="false" />
+24-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:9:56-80
+25        <activity
+25-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:10:9-87
+26            android:name="za.ac.richfield.smartpantry.SuggestedRecipesActivity"
+26-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:10:19-59
+27            android:exported="false" />
+27-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:10:60-84
+28        <activity
+28-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:11:9-88
+29            android:name="za.ac.richfield.smartpantry.AddEditIngredientActivity"
+29-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:11:19-60
+30            android:exported="false" />
+30-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:11:61-85
+31        <activity
+31-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:12:9-17:20
+32            android:name="za.ac.richfield.smartpantry.PantryListActivity"
+32-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:12:19-53
+33            android:exported="true" >
+33-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:12:54-77
+34            <intent-filter>
+34-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:13:13-16:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:14:17-69
+35-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:14:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:15:17-77
+37-->C:\Users\Mohammed Bhemat\Desktop\MAD_Assignment\SmartPantryManager_Java_Android_Assignment\SmartPantryManager\app\src\main\AndroidManifest.xml:15:27-74
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>

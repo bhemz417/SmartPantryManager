@@ -1,0 +1,11 @@
+<resources>
+    <color name="primary">#256B4B</color>
+    <color name="primary_dark">#174B34</color>
+    <color name="accent">#D9EFDF</color>
+    <color name="page">#F5F7F3</color>
+    <color name="ink">#1F2C25</color>
+    <color name="muted">#55655C</color>
+    <color name="divider">#D4DDD5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="warning">#945200</color>
+</resources>

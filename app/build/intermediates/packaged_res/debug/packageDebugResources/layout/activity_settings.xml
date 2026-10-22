@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:background="@color/page">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="0dp"
+        android:layout_weight="1" android:orientation="vertical" android:padding="20dp">
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+            style="@style/ScreenTitle" android:text="Settings"/>
+        <Switch android:id="@+id/switchExpiry" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="22dp"
+            android:text="Highlight expiry dates" android:textSize="17sp"
+            android:checked="true"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+            style="@style/BodyText" android:layout_marginTop="8dp"
+            android:text="When turned on, pantry items expiring within 3 days are highlighted. This is an in-app reminder, not a phone notification."/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+            style="@style/BodyText" android:layout_marginTop="26dp"
+            android:text="Your ingredients and recipes are stored on this device using SQLite. No sign-in or internet is needed."/>
+    </LinearLayout>
+    <include layout="@layout/view_navigation"/>
+</LinearLayout>
