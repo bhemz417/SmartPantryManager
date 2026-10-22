@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:background="@drawable/card_background" android:padding="16dp"
+    android:orientation="vertical">
+    <TextView android:id="@+id/rowRecipeTitle" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:textColor="@color/ink"
+        android:textStyle="bold" android:textSize="18sp"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+        style="@style/BodyText" android:text="All ingredients available · Tap for method"/>
+</LinearLayout>
